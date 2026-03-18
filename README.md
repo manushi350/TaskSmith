@@ -95,7 +95,7 @@ TaskSmithApp
     └── MongoDB collections
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/TaskSmithApp.git
+git clone https://github.com/manushi350/TaskSmithApp.git
 2️⃣ Install dependencies
 
 Frontend
